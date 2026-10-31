@@ -1,0 +1,21 @@
+collection_event_id,account_id,event_date,action_type,outcome,amount_recovered
+COL400001,ACC210780,2022-07-07,Field Visit,Escalated,0.0
+COL400002,ACC213329,2021-10-31,Reminder Call,Disputed,0.0
+COL400003,ACC213329,2023-02-08,Legal Notice,Promise to Pay,0.0
+COL400004,ACC213329,2021-03-21,Field Visit,Payment Received,1114.7
+COL400005,ACC212150,2022-11-13,Reminder Call,Payment Received,0.0
+COL400006,ACC212150,2021-09-02,Settlement Offer,Escalated,0.0
+COL400007,ACC212150,2023-08-18,SMS/Email Notice,Escalated,0.0
+COL400008,ACC207986,2019-06-23,Settlement Offer,No Response,0.0
+COL400009,ACC208850,2021-05-14,Reminder Call,Disputed,0.0
+COL400010,ACC208850,2021-01-09,Reminder Call,Payment Received,0.0
+COL400011,ACC208850,2023-05-18,Legal Notice,Payment Received,0.0
+COL400012,ACC213355,2021-12-31,Reminder Call,Escalated,3618.32
+COL400013,ACC213355,2020-09-21,Settlement Offer,Promise to Pay,0.0
+COL400014,ACC213355,2018-12-19,Settlement Offer,No Response,0.0
+COL400015,ACC211363,2022-05-02,Reminder Call,Promise to Pay,0.0
+COL400016,ACC202569,2021-12-30,Reminder Call,Disputed,0.0
+COL400017,ACC202569,2019-01-13,SMS/Email Notice,Promise to Pay,0.0
+COL400018,ACC203074,2021-08-21,Legal Notice,Escalated,0.0
+COL400019,ACC212863,2021-09-22,Written-Off Referral,Escalated,0.0
+COL400020,ACC208955,2021-04-25,SMS/Email Notice,No Response,1970.72

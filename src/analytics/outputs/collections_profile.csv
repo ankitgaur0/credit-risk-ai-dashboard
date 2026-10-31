@@ -1,0 +1,7 @@
+column,dtype,non_null,missing,missing_pct,unique,example
+collection_event_id,string,8635,0,0.0,8635,COL400001
+account_id,string,8635,0,0.0,4278,ACC210780
+event_date,datetime64[us],8635,0,0.0,1976,2022-07-07 00:00:00
+action_type,str,8635,0,0.0,6,Field Visit
+outcome,str,8635,0,0.0,5,Escalated
+amount_recovered,float64,8635,0,0.0,2195,0.0

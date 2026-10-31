@@ -1,0 +1,11 @@
+column,dtype,non_null,missing,missing_pct,unique,example
+bureau_id,string,22979,0,0.0,22979,BUR300001
+customer_id,string,22979,0,0.0,8992,CUST100001
+credit_type,str,22979,0,0.0,6,Auto Loan
+lender_category,str,22979,0,0.0,4,NBFC
+sanctioned_amount,float64,22979,0,0.0,20698,7111.82
+outstanding_amount,float64,22979,0,0.0,14712,1177.6
+account_status,str,22979,0,0.0,3,Active
+days_past_due,float64,22290,689,3.0,74,36.0
+date_opened,datetime64[us],22979,0,0.0,2920,2022-07-30 00:00:00
+date_closed,datetime64[us],11736,11243,48.93,3634,

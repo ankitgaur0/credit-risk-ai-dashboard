@@ -1,0 +1,16 @@
+column,dtype,non_null,missing,missing_pct,unique,example
+customer_id,string,10000,0,0.0,10000,CUST100000
+age,int64,10000,0,0.0,50,41
+gender,str,10000,0,0.0,4,Female
+marital_status,str,10000,0,0.0,4,Married
+education_level,str,10000,0,0.0,5,Vocational
+employment_type,str,10000,0,0.0,5,Business Owner
+occupation_sector,str,10000,0,0.0,10,Construction
+years_employed,float64,9500,500,5.0,320,2.8
+annual_income,float64,10000,0,0.0,1273,87700.0
+region,str,10000,0,0.0,5,West
+city_tier,str,10000,0,0.0,3,Tier 3
+num_dependents,float64,9500,500,5.0,7,0.0
+housing_type,str,10000,0,0.0,4,Living with Family
+years_at_residence,float64,9500,500,5.0,238,4.2
+customer_since,datetime64[us],10000,0,0.0,2174,2021-07-25 00:00:00

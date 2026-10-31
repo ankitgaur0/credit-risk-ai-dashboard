@@ -1,0 +1,21 @@
+customer_id,age,gender,marital_status,education_level,employment_type,occupation_sector,years_employed,annual_income,region,city_tier,num_dependents,housing_type,years_at_residence,customer_since
+CUST100000,41,Female,Married,Vocational,Business Owner,Construction,2.8,87700.0,West,Tier 3,0.0,Living with Family,4.2,2021-07-25
+CUST100001,27,Male,Single,High School,Unemployed,Healthcare,0.0,12000.0,Central,Tier 1,1.0,Living with Family,2.6,2018-11-07
+CUST100002,46,Female,Married,Vocational,Business Owner,Finance,30.3,60100.0,Central,Tier 1,0.0,Owned,1.1,2021-08-22
+CUST100003,48,Male,Widowed,Vocational,Unemployed,Retail,0.0,39500.0,West,Tier 3,1.0,Mortgaged,0.5,2020-06-19
+CUST100004,21,Male,Divorced,Bachelor's,Business Owner,Finance,0.5,98500.0,Central,Tier 2,1.0,Owned,3.9,2022-06-02
+CUST100005,24,Male,Married,Bachelor's,Salaried,Hospitality,13.5,74000.0,Central,Tier 1,1.0,Mortgaged,1.4,2019-03-05
+CUST100006,39,Male,Single,High School,Business Owner,Hospitality,5.8,73500.0,Central,Tier 1,1.0,Mortgaged,23.5,2018-01-05
+CUST100007,35,Male,Married,High School,Self-Employed,Education,0.5,40300.0,South,Tier 1,1.0,Rented,5.8,2018-08-23
+CUST100008,38,Male,Married,Bachelor's,Salaried,Healthcare,0.6,93800.0,South,Tier 1,1.0,Owned,3.5,2022-06-08
+CUST100009,29,Male,Single,Master's,Salaried,Manufacturing,0.4,105700.0,Central,Tier 1,1.0,Rented,1.6,2020-04-10
+CUST100010,48,Male,Single,Vocational,Salaried,Construction,4.4,74400.0,North,Tier 3,0.0,Owned,2.6,2020-03-07
+CUST100011,47,F,Married,High School,Business Owner,Education,4.6,60500.0,East,Tier 2,1.0,Living with Family,4.3,2018-05-09
+CUST100012,39,Male,Married,Bachelor's,Business Owner,Education,2.4,92600.0,West,Tier 3,0.0,Mortgaged,1.2,2018-05-25
+CUST100013,50,Male,Married,Bachelor's,Business Owner,Manufacturing,3.1,99800.0,South,Tier 2,0.0,Rented,5.1,2019-01-14
+CUST100014,43,Male,Married,Bachelor's,Salaried,Other,1.6,85200.0,South,Tier 3,2.0,Rented,3.0,2018-10-19
+CUST100015,29,Female,Married,Bachelor's,Salaried,Other,30.4,57300.0,North,Tier 2,1.0,Living with Family,4.1,2018-09-16
+CUST100016,42,Female,Married,Vocational,Salaried,Government,3.2,78600.0,North,Tier 2,0.0,Owned,5.6,2022-02-13
+CUST100017,27,Female,Divorced,Bachelor's,Self-Employed,Hospitality,11.7,78300.0,Central,Tier 2,0.0,Mortgaged,2.6,2022-03-03
+CUST100018,48,Female,Married,High School,Contract,Healthcare,4.8,73900.0,South,Tier 2,2.0,Mortgaged,2.7,2023-07-15
+CUST100019,37,Male,Married,Bachelor's,Contract,Healthcare,0.3,72300.0,South,Tier 1,0.0,Living with Family,,2018-07-05

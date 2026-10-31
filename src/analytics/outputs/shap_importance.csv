@@ -1,0 +1,82 @@
+,mean_abs_shap
+annual_income,0.17448926
+rep_mean_dpd,0.17283142
+years_employed,0.1634216
+age,0.13926923
+bureau_mean_dpd,0.10563743
+rep_late_cnt,0.081244394
+interest_rate_pct,0.063050985
+bureau_max_dpd,0.056936447
+rep_max_dpd,0.046410576
+loan_amount,0.04512621
+loan_to_income,0.044777364
+emi_to_monthly_income,0.04078905
+bureau_active_cnt,0.039952062
+customer_tenure_yrs,0.039915632
+years_at_residence,0.038825374
+bureau_utilisation,0.02914968
+rep_dpd_trend,0.027871551
+tenure_months,0.022593759
+rep_missed_cnt,0.01948649
+marital_status_Married,0.016322175
+marital_status_Single,0.015614573
+bureau_total_outstanding,0.014357516
+rep_recent3_mean_dpd,0.013875499
+region_South,0.013524265
+bureau_writeoff_cnt,0.011902059
+bureau_dpd_missing_cnt,0.010699385
+num_dependents_missing,0.010310022
+loan_type_Auto Loan,0.0058475477
+disbursal_channel_Mobile App,0.0056610107
+loan_purpose_Education,0.0050287168
+customer_loan_cnt,0.0049869656
+disbursal_channel_Branch,0.0048484984
+housing_type_Rented,0.0035280613
+rep_missed_rate,0.0031993806
+loan_type_Business Loan,0.0031401191
+education_level_High School,0.0030584016
+loan_type_Credit Card,0.0026289227
+city_tier_Tier 2,0.0024342325
+bureau_lines_cnt,0.0019868952
+num_dependents,0.0019309046
+loan_purpose_Medical,0.0014263842
+education_level_Bachelor's,0.0011051851
+employment_type_Salaried,0.0010212549
+region_West,0.00086990854
+region_Central,0.00084697234
+loan_purpose_Vehicle Purchase,0.00073875353
+loan_purpose_Wedding,0.00072486576
+marital_status_Divorced,0.00072326104
+city_tier_Tier 3,0.00070714374
+employment_type_Self-Employed,0.0006636159
+region_North,0.0006034475
+city_tier_Tier 1,0.00058339076
+housing_type_Mortgaged,0.0005599945
+loan_type_Personal Loan,0.00048305836
+collateral_flag,0.0
+years_employed_missing,0.0
+years_at_residence_missing,0.0
+interest_rate_missing,0.0
+has_bureau_record,0.0
+bureau_has_writeoff,0.0
+employment_type_Business Owner,0.0
+rep_pay_ratio,0.0
+rep_dpd30_cnt,0.0
+employment_type_Contract,0.0
+bureau_lender_types,0.0
+region_East,0.0
+loan_type_Mortgage,0.0
+employment_type_Unemployed,0.0
+housing_type_Living with Family,0.0
+education_level_Doctorate,0.0
+marital_status_Widowed,0.0
+housing_type_Owned,0.0
+education_level_Master's,0.0
+loan_purpose_Business Expansion,0.0
+disbursal_channel_Partner/DSA,0.0
+disbursal_channel_Online,0.0
+education_level_Vocational,0.0
+loan_purpose_Home Improvement,0.0
+loan_purpose_Debt Consolidation,0.0
+loan_purpose_Travel,0.0
+loan_purpose_Other,0.0

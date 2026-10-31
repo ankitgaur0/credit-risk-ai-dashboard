@@ -1,0 +1,21 @@
+account_id,customer_id,loan_type,loan_purpose,loan_amount,interest_rate_pct,tenure_months,origination_date,disbursal_channel,collateral_flag,target_default
+ACC200001,CUST100000,Mortgage,Wedding,306310.51,6.06,360,2022-10-18,Branch,1,1
+ACC200002,CUST100001,Auto Loan,Home Improvement,33921.61,5.52,60,2022-12-19,Online,1,0
+ACC200003,CUST100002,Personal Loan,Business Expansion,4469.93,10.98,48,2023-11-08,Mobile App,0,0
+ACC200004,CUST100003,Personal Loan,Medical,26274.8,7.43,48,2020-04-06,Partner/DSA,0,0
+ACC200005,CUST100003,Personal Loan,Vehicle Purchase,16356.86,10.63,36,2023-04-15,Online,0,0
+ACC200006,CUST100004,Credit Card,Other,8688.53,23.58,36,2022-03-20,Mobile App,0,0
+ACC200007,CUST100005,Personal Loan,Home Improvement,19451.27,10.61,12,2021-07-09,Online,0,0
+ACC200008,CUST100006,Auto Loan,Education,37167.82,7.31,60,2023-11-06,Online,1,0
+ACC200009,CUST100007,Auto Loan,Travel,32657.52,6.79,72,2018-11-18,Online,1,0
+ACC200010,CUST100008,Auto Loan,Wedding,28965.04,8.1,60,2019-03-26,Online,1,0
+ACC200011,CUST100008,Mortgage,Home Improvement,162918.81,6.2,360,2021-10-31,Partner/DSA,1,0
+ACC200012,CUST100009,Credit Card,Travel,3220.67,16.14,24,2022-01-22,Mobile App,0,0
+ACC200013,CUST100009,Personal Loan,Travel,13414.97,9.75,36,2021-08-06,Mobile App,0,0
+ACC200014,CUST100010,Personal Loan,Medical,4998.93,12.29,12,2022-09-02,Partner/DSA,0,0
+ACC200015,CUST100010,Credit Card,Other,6358.05,23.05,24,2023-07-14,Mobile App,0,0
+ACC200016,CUST100011,Credit Card,Business Expansion,10069.9,19.1,36,2022-01-04,Online,0,0
+ACC200017,CUST100012,Personal Loan,Other,1013.45,8.77,12,2022-12-14,Mobile App,0,0
+ACC200018,CUST100013,Credit Card,Other,13471.92,21.81,12,2022-04-09,Partner/DSA,0,0
+ACC200019,CUST100013,Auto Loan,Business Expansion,23671.87,7.58,72,2021-11-02,Online,1,0
+ACC200020,CUST100014,Personal Loan,Vehicle Purchase,24876.07,10.75,24,2022-07-04,Partner/DSA,0,0

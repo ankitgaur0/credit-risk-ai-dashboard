@@ -1,0 +1,12 @@
+column,dtype,non_null,missing,missing_pct,unique,example
+account_id,string,14685,0,0.0,14685,ACC200001
+customer_id,string,14685,0,0.0,10000,CUST100000
+loan_type,str,14685,0,0.0,5,Mortgage
+loan_purpose,str,14685,0,0.0,9,Wedding
+loan_amount,float64,14685,0,0.0,14370,306310.51
+interest_rate_pct,float64,14391,294,2.0,2084,6.06
+tenure_months,int64,14685,0,0.0,9,360
+origination_date,datetime64[us],14685,0,0.0,2186,2022-10-18 00:00:00
+disbursal_channel,str,14685,0,0.0,4,Branch
+collateral_flag,int64,14685,0,0.0,2,1
+target_default,int64,14685,0,0.0,2,1

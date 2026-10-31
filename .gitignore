@@ -1,0 +1,35 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+# Project
+.env
+.streamlit/secrets.toml
+data/processed/
+.~lock.*
+*.zip
+__MACOSX/
+.DS_Store
+AI Case Study 1/
+*.docx
+src/analytics/outputs/merged_loan_level.csv
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# local AI-assistant / editor tooling
+.claude/
+.agents/

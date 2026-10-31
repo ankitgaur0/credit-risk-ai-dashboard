@@ -1,0 +1,22 @@
+table,column,issue,rows_affected,action
+customers,*,rows loaded,10000,-
+loans,*,rows loaded,14685,-
+bureau,*,rows loaded,22979,-
+repayments,*,rows loaded,176220,-
+collections,*,rows loaded,8635,-
+loans,customer_id,referential integrity vs customers,0,passed
+bureau,customer_id,referential integrity vs customers,0,passed
+repayments,account_id,referential integrity vs loans,0,passed
+collections,account_id,referential integrity vs loans,0,passed
+customers,gender,inconsistent labels 'M'/'F',600,mapped to Male/Female
+customers,years_employed,missing values,500,imputed median by employment_type; flag column years_employed_missing added
+customers,num_dependents,missing values,500,imputed median by marital_status; flag column num_dependents_missing added
+customers,years_at_residence,missing values,500,imputed median by housing_type; flag column years_at_residence_missing added
+loans,interest_rate_pct,missing values,294,imputed median by loan_type; flag interest_rate_missing added
+loans,target_default,"target not in {0,1}",0,none needed
+bureau,days_past_due,missing values,689,filled 0 for aggregation; count of missing kept as feature bureau_dpd_missing_cnt
+bureau,date_closed,null for active lines,11243,expected (still active) - left as NaT
+bureau,outstanding_amount,outstanding > sanctioned,0,kept (over-limit is a risk signal)
+joined,bureau_*,customer has no bureau record,1462,filled 0; has_bureau_record flag
+joined,coll_*,account has no collections events,10407,filled 0 (no collections activity)
+joined,*,final analysis-ready rows,14685,1 row per loan account
